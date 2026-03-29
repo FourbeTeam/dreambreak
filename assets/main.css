@@ -7,10 +7,6 @@ body {
     color: white;
 }
 
-title {
-    text-size: 50px
-}
-
 main {
   width: 95%;
   max-width: 1000px;
@@ -21,6 +17,7 @@ main {
 h1 {
     color:red;
     text-align: center;
+    text-size: 50px
 }
 
 /* === Conteneur === */
