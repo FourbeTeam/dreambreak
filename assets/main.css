@@ -7,6 +7,13 @@ body {
     color: white;
 }
 
+main {
+  width: 95%;
+  max-width: 1000px;
+  margin: 2% auto;
+  padding: 2rem;
+}
+
 /* === Conteneur === */
 
 .container {
