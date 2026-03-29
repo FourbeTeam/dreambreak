@@ -6,3 +6,19 @@ body {
     font-family:'Times New Roman', Times, serif;
     color: white;
 }
+
+
+/* === Conteneur === */
+
+.container {
+  display: flex;
+  align-items: center; /* aligne verticalement au centre */
+  gap: 10px;           /* espace entre l'image et le texte */
+}
+
+.container img {
+  width: 300px;        /* largeur de l'image */
+  object-fit: cover;
+}
+
+/* ========================================================== */
