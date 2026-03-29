@@ -1,0 +1,7 @@
+body {
+    /* fond d'écran */
+    background: linear-gradient(to bottom right, #0000AA, #fFAA00);
+    background-attachment: fixed;
+
+    font-family:'Times New Roman', Times, serif;
+}
