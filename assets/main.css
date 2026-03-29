@@ -18,6 +18,11 @@ body {
 .container img {
   width: 300px;        /* largeur de l'image */
   object-fit: cover;
+  border: 3px #FFFFFF;
 }
 
+.texte {
+    flex: 1;
+    border: 3px #FFFFFF;
+}
 /* ========================================================== */
