@@ -39,3 +39,10 @@ h1 {
     border: 3px #FFFFFF;
 }
 /* ========================================================== */
+
+/* === Bouton === */
+
+button {
+  margin: 1rem;
+  text-align: center;
+}
