@@ -42,9 +42,16 @@ h1 {
 
 /* === Bouton === */
 
-button {
-  margin: 1rem;
+.bouton {
+  padding: 3rem;
   text-align: center;
+  background-color: #5A5A5A;
+  color: black;
+}
+
+.bouton:hover {
+  background-color: #010101;
+  color: white;
 }
 
 /* ========================================================== */
