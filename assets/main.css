@@ -5,6 +5,7 @@ body {
 
     font-family:'Times New Roman', Times, serif;
     color: white;
+    letter-spacing: normal;
 }
 
 main {
@@ -49,11 +50,9 @@ button {
   text-align: center;
   color: black;
   
-  padding: 1rem;
-  margin: 5rem;
+  padding-inline: 1.2rem;
   
   background-color: #5A5A5A;
-  justify-content: center;
 }
 
 button:hover {
