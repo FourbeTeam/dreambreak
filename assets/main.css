@@ -20,6 +20,9 @@ h1 {
     font-size: 100px;
 }
 
+footer {
+  text-align: center;
+}
 /* === Conteneur === */
 
 .container {
@@ -42,16 +45,24 @@ h1 {
 
 /* === Bouton === */
 
-.bouton {
-  padding: 3rem;
+button {
   text-align: center;
-  background-color: #5A5A5A;
   color: black;
+  
+  padding: 1rem;
+  
+  background-color: #5A5A5A;
+  justify-content: center;
 }
 
-.bouton:hover {
+button:hover {
   background-color: #010101;
   color: white;
+  cursor: pointer;
+}
+
+button.active {
+    box-shadow: inset -2px -2px 3px, inset 2px 2px 3px;
 }
 
 /* ========================================================== */
