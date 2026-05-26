@@ -51,6 +51,7 @@ button {
   color: black;
   
   padding-inline: 1.2rem;
+  padding-block: 1rem;
   
   background-color: #5A5A5A;
 }
