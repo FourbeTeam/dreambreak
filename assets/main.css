@@ -17,7 +17,7 @@ main {
 h1 {
     color:red;
     text-align: center;
-    text-size: 100px
+    font-size: 100px;
 }
 
 /* === Conteneur === */
